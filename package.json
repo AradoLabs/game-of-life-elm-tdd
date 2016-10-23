@@ -1,0 +1,17 @@
+{
+  "name": "game-of-life-in-elm",
+  "version": "1.0.0",
+  "description": "Learning Elm with Game of Life",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "author": "",
+  "devDependencies": {
+    "better-console": "^0.2.4",
+    "gulp": "^3.9.1",
+    "gulp-shell": "^0.5.2",
+    "gulp-util": "^3.0.7",
+    "noop": "^0.2.2"
+  }
+}

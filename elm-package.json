@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0",
+    "summary": "Game of Life TDD example",
+    "repository": "https://github.com/aradolabs/game-of-life-elm-tdd.git",
+    "license": "MIT",
+    "source-directories": [
+        "./src"
+    ],
+    "exposed-modules": [],
+    "dependencies": {
+        "elm-community/elm-test": "1.1.0 <= v < 2.0.0",
+        "elm-community/list-extra": "3.1.0 <= v < 4.0.0",
+        "elm-lang/core": "4.0.1 <= v < 5.0.0",
+        "elm-lang/html": "1.0.0 <= v < 2.0.0"
+    },
+    "elm-version": "0.17.0 <= v < 0.18.0"
+}
